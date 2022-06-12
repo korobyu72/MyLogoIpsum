@@ -61,6 +61,9 @@ h1{
 .button_orange:hover{
     background: #f7ee72;
     transition: 500ms;
+    font-size: 26px;
+    color: #0f9cdd;
+    transition: 1000ms;
 }
 
 .about{
